@@ -16,11 +16,13 @@ I'm passionate about AI, Computer Vision and Robotics
 </ul>
 
 <h3>Last Project </h3>
+Thesis Project: </br>
 Study of the state of the art regarding image and frescoes reconstruction with both a
 supervised and a blind approach. Design and development of a method for improving the
 current state of the art of the supervised approach based on Scale Invariant Feature Trans-
 form(SIFT), Simple Linear Iterative Clustering (SLIC), K-means clustering and Normalized
 Cross-Correlation matching
+<a href="https://drive.google.com/file/d/1aD_Hwf6thwW-Mm8OwPKpsMxHAW1PFSVD/view?usp=share_link"> Link </a>
 
 <h3>Hobbies</h3>
 <ul>
