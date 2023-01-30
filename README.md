@@ -18,4 +18,3 @@ I'm passionate about AI, Computer Vision and Robotics
 <li> <a href="https://www.flickr.com/photos/turcomario/"> Photography </a> </li>
 <li> Gym </li> 
 </ul>
-![](https://komarev.com/ghpvc/?username=marioturco&color=brightgreen)
