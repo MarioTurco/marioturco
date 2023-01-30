@@ -5,8 +5,9 @@ I'm passionate about AI, Computer Vision and Robotics
 
 <h3>Education</h3>
 <ul>
-<li> Bachelor's Degree in Computer Science at University of Naples, Federico II (110/110)  2017/2018->2019/2020</l1>
-<li> Master's Degree in Computer Science at University of Naples, Federico II (110/110 with honors) 2020/2021->2022/2023 </l1>
+  <li> 2023 - Master's Degree in Computer Science at University of Naples, Federico II (110/110 with honors) 2020/2021->2022/2023 </l1>
+<li> 2020 -Bachelor's Degree in Computer Science at University of Naples, Federico II (110/110)  2017/2018->2019/2020</l1>
+
 </ul>
 
 <h3>Publications </h3>
