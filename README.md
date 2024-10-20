@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mario </h1>
 
-<h3 align="center">A Computer Scientist based in Italy, &#127470;&#127481; </h3>
+<h3 align="center">A Computer Scientist based in Italy </h3>
 
 <h3>Work experience</h3>
 <ul>
