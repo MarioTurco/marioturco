@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mario </h1>
 
-<h3 align="center">A Computer Scientist based in Naples, &#127470;&#127481; </h3>
-I'm passionate about AI, Computer Vision and Robotics
+<h3 align="center">A Computer Scientist based in Italy, &#127470;&#127481; </h3>
+
+<h3>Work experience</h3>
+<ul>
+  <li> Currently working as a Data Engineer @ Nexi Digital </l1>
+</ul>
 
 <h3>Education</h3>
 <ul>
@@ -26,7 +30,7 @@ Cross-Correlation matching
 
 <h3>Hobbies</h3>
 <ul>
-<li> <a href="https://www.flickr.com/photos/turcomario/"> Photography </a> </li>
+<li> Photography </li>
 <li> Gym </li> 
 </ul>
 
